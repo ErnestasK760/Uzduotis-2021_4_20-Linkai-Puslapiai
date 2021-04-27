@@ -1,5 +1,5 @@
 # Uzduotis-2021_4_20-Pirma
-Antra paskaita(2021-04-20): Užduotis:
+Antra paskaita(2021-04-20):  Užduotis:
 
 1.Susikurti GitHub paskyrą. https://github.com/
 2.Įsidiegti Git Desktop. https://desktop.github.com/
